@@ -6,4 +6,4 @@ export const terbit = '2025-03-09T00:01:03Z';
 export const google = 'vGkimxci1GqBgbCpD4WroxJ6Yn54yNfmw-mhw-oKj1Y';
 export const yandex = 'c3a1727bc05fd8de';
 
-export const index = '60787584-0ad0-4bd8-bc7b-ca66a45cf88f';
+export const index = 'dc4fd7f2-fe7a-41fc-b31b-a9d7d6fac4ac';
